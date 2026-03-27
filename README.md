@@ -5,7 +5,7 @@ Desenvolver uma automação para cadastrar produtos em um sistema de estoque, re
 
 ## ⚙️ Tecnologias Utilizadas
 - Python
-- [Coloque aqui: Selenium, Pandas, PyAutoGUI, etc]
+- [PyAutoGUI]
 
 ## 🔄 Funcionalidades
 - Leitura de dados de produtos
@@ -16,8 +16,4 @@ Desenvolver uma automação para cadastrar produtos em um sistema de estoque, re
 ## 🚀 Resultados
 A automação permite otimizar o tempo de cadastro de produtos, reduzindo esforço manual e aumentando a produtividade no controle de estoque.
 
-## ▶️ Como executar
 
-1. Instale as dependências:
-```bash
-pip install -r requirements.txt
